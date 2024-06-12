@@ -6,7 +6,7 @@ import pandas as pd
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Abhi@2608",
+    password="Mantriparadise@25",
     database="employee"  # Make sure this is the correct database name
 )
 mycursor = mydb.cursor()
